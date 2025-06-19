@@ -4,6 +4,13 @@ Sorting Visualizer is a web-based tool that allows users to **generate a random 
 
 ---
 
+## 🚀 Live Demo
+
+🌐 Visit Website : https://iadnanimam.github.io/Sorting-Visualizer/  
+🧑‍💻 GitHub Repository: https://github.com/iAdnanImam/Sorting-Visualizer.git
+
+---
+
 ## 🎯 Project Objective
 
 The goal of this project is to **help users understand the core logic of sorting algorithms** through animated visualizations. Users can:
@@ -43,7 +50,7 @@ The goal of this project is to **help users understand the core logic of sorting
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sorting-visualizer.git
+git clone https://github.com/iAdnanImam/Sorting-Visualizer.git
 cd sorting-visualizer
 ```
 ### 2. Open in Browser
